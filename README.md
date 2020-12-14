@@ -1,9 +1,9 @@
-# CMPE-256---Term-Project
-# Team 5
+### CMPE-256---Term-Project
+## Team 5
 
-A Clustering-Based Approach for Collaborative Filtering Using an Enhanced Similarity Metric
+## A Clustering-Based Approach for Collaborative Filtering Using an Enhanced Similarity Metric
 
-## Individual Contribution
+### Individual Contribution
 This work has been equally contributed by the four members in the team. <br/>
 The Gaussian Mixture Model based clustering was done by Belinda and Varsha. <br/>
 K-Means clustering part was done by Ashwini.<br/>
