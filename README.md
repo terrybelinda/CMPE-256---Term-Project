@@ -5,7 +5,7 @@
 
 ### Individual Contribution
 This work has been equally contributed by the four members in the team. <br/>
-Custom code to convert the input ratings matrix to item-cluster matix was done by Belinda <br/>
+Custom code to convert the input user-item matrix to item-cluster matix was done by Belinda <br/>
 Gaussian Mixture Model clustering was done by Varsha. <br/>
 K-Means clustering part was done by Ashwini.<br/>
 Custom code using priority queue to find top K items by Ashwini, Belinda and Varsha <br/>
